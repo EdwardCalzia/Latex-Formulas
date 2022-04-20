@@ -1,0 +1,12 @@
+%---------Lift Formula---------%
+\begin{center}
+    \bigskip\LARGE{$F_L = \frac{1}{2} \rho v^2 C_L A_{w}$}
+\end{center}
+
+\Large{$& 
+        Where: $\\}
+{$F_L$ = the lift force (Newtons)\\}
+{$\rho$ = the density of the fluid (Kg/m^3)\\}
+{$\upsilon$ = the density of the fluid (Kg/m^3)\\}
+{$C_L$ = the lift coefficient (No Units)\\}
+{$A_{w}$ = the wing area (m^2)\\}
