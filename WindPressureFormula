@@ -1,0 +1,9 @@
+%---------Wind Pressure---------%
+\begin{center}
+    \bigskip\LARGE{$P = 0.00005346671173897984 \cdot V^2$}
+\end{center}
+
+\Large{$& 
+        Where: $\\}
+{$P$ = the wind pressure (N/m^2)\\}
+{$V = the speed of the wind (mph)$\\}
